@@ -1,2 +1,2 @@
 # First-Git-Hub
-~~actually this is second git hub~~
+***actually this is second git hub***
